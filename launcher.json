@@ -1,0 +1,9 @@
+{
+  "resourcepacks": [
+    {
+      "name": "pixelmonia-resourcepack",
+      "url": "https://github.com/pixelmonia/pixelmonia-mods/releases/download/packs-v1/pixelmonia-resourcepack.zip",
+      "sha1": "c16ad976c4d31b4b6ab6e4ad8c20522f49dcc7d8"
+    }
+  ]
+}
