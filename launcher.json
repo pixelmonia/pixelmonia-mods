@@ -4,6 +4,11 @@
       "name": "pixelmonia-resourcepack",
       "url": "https://github.com/pixelmonia/pixelmonia-mods/releases/download/packs-v1/pixelmonia-resourcepack.zip",
       "sha1": "c236cdec138fad13403d9d5e71df2e6d4f4eb278"
+    },
+    {
+      "name": "nightterrors-resourcepack",
+      "url": "https://github.com/pixelmonia/pixelmonia-mods/releases/download/packs-v1/NightTerrors_ResourcePack.zip",
+      "sha1": "9d9541a82fb62d1359326bfb45e762a0743ba70e"
     }
   ]
 }
