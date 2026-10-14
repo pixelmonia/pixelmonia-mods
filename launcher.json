@@ -9,6 +9,16 @@
       "name": "nightterrors-resourcepack",
       "url": "https://github.com/pixelmonia/pixelmonia-mods/releases/download/packs-v1/NightTerrors_ResourcePack.zip",
       "sha1": "321d27878cd1bfbed8f244f8e18b0a564564bf43"
+    },
+    {
+      "name": "core-pack",
+      "url": "https://github.com/pixelmonia/pixelmonia-mods/releases/download/packs-v1/Core-Pack.zip",
+      "sha1": "6843303423f7e2f9fe65da1bf267ee0235016520"
+    },
+    {
+      "name": "crate-pack",
+      "url": "https://github.com/pixelmonia/pixelmonia-mods/releases/download/packs-v1/Crate-Pack.zip",
+      "sha1": "03fec12dc9e30930f6a0ed5a8f05f3774325a0db"
     }
   ]
 }
