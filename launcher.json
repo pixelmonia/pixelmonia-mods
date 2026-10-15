@@ -11,9 +11,9 @@
       "sha1": "321d27878cd1bfbed8f244f8e18b0a564564bf43"
     },
     {
-      "name": "pixel-corev2",
-      "url": "https://github.com/pixelmonia/pixelmonia-mods/releases/download/packs-v1/Pixel-CoreV2.zip",
-      "sha1": "95c445c0565490664b1a8b4a3515086e354acb5d"
+      "name": "custom-pixelgui",
+      "url": "https://github.com/pixelmonia/pixelmonia-mods/releases/download/packs-v1/Custom-PixelGui.zip",
+      "sha1": "fff535912f56f9f6008c41720a9781347bf054b0"
     },
     {
       "name": "crate-pack",
