@@ -19,6 +19,11 @@
       "name": "crate-pack",
       "url": "https://github.com/pixelmonia/pixelmonia-mods/releases/download/packs-v1/Crate-Pack.zip",
       "sha1": "03fec12dc9e30930f6a0ed5a8f05f3774325a0db"
+    },
+    {
+      "name": "pixelicons-pack",
+      "url": "https://github.com/pixelmonia/pixelmonia-mods/releases/download/packs-v1/pixelicons-pack.zip",
+      "sha1": "24d76a12200e16dab6b704720d925fd325bcb60c"
     }
   ]
 }
