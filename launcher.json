@@ -1,24 +1,9 @@
 {
-  "resourcepacks": [
+  "resourcepacks": 
     {
-      "name": "pixelmonia-resourcepack",
-      "url": "https://github.com/pixelmonia/pixelmonia-mods/releases/download/packs-v1/pixelmonia-resourcepack.zip",
-      "sha1": "c236cdec138fad13403d9d5e71df2e6d4f4eb278"
-    },
-    {
-      "name": "nightterrors-resourcepack",
-      "url": "https://github.com/pixelmonia/pixelmonia-mods/releases/download/packs-v1/NightTerrors_ResourcePack.zip",
-      "sha1": "c7d3fedcdc09276c9b6340ccd5725463e4ddb1b3"
-    },
-    {
-      "name": "pixelcore-pack-v20",
-      "url": "https://github.com/pixelmonia/pixelmonia-mods/releases/download/packs-v1/pixelcore-pack-v20.zip",
-      "sha1": "89d9a3b64722568c8f29d32555c57ec1cc155b52"
-    },
-    {
-      "name": "crate-pack",
-      "url": "https://github.com/pixelmonia/pixelmonia-mods/releases/download/packs-v1/Crate-Pack.zip",
-      "sha1": "03fec12dc9e30930f6a0ed5a8f05f3774325a0db"
+      "name": "pixelmonia-resourcepackv21",
+      "url": "https://github.com/pixelmonia/pixelmonia-mods/releases/download/packs-v1/PixelMonia-ResourcePackv21.zip",
+      "sha1": "fde300c6bda64af64981adaa15994aff26a3494a"
     },
     {
       "name": "pixelicons-packv2",
