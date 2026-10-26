@@ -6,9 +6,9 @@
       "sha1": "0bb0fb7dc887230101b0e03ff1ec0f50d73506ab"
     },
     {
-      "name": "pixelicons-packv2",
-      "url": "https://github.com/pixelmonia/pixelmonia-mods/releases/download/packs-v1/pixelicons-packV2.zip",
-      "sha1": "b24ea553c4fe303506c6390612e4126def6a370a"
+      "name": "pixelicons-pack-1_2_0",
+      "url": "https://github.com/pixelmonia/pixelmonia-mods/releases/download/packs-v1/pixelicons-pack-1_2_0.zip",
+      "sha1": "c3ef403bde97c50d6d0cf7152e4764d57e2218b3"
     }
   ]
 }
