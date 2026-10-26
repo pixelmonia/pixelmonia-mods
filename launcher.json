@@ -1,9 +1,9 @@
 {
   "resourcepacks": [
     {
-      "name": "pixelmonia-resourcepackv32",
-      "url": "https://github.com/pixelmonia/pixelmonia-mods/releases/download/packs-v1/PixelMonia-ResourcePackv32.zip",
-      "sha1": "0bb0fb7dc887230101b0e03ff1ec0f50d73506ab"
+      "name": "pixelmonia-resourcepackv33",
+      "url": "https://github.com/pixelmonia/pixelmonia-mods/releases/download/packs-v1/PixelMonia-ResourcePackv33.zip",
+      "sha1": "7bdbec27f194d4fa4d11387b2000c2cffa62670e"
     },
     {
       "name": "pixelicons-pack-1_2_0",
