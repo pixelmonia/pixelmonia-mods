@@ -1,9 +1,9 @@
 {
   "resourcepacks": [
     {
-      "name": "pixelmonia-resourcepackv40",
-      "url": "https://github.com/pixelmonia/pixelmonia-mods/releases/download/packs-v1/PixelMonia-ResourcePackv40.zip",
-      "sha1": "42dbdf7b6a7c5ff8ddc2c2e10be93ec73571af21"
+      "name": "PixelMonia-ResourcePackv40-halloween-gui",
+      "url": "https://github.com/pixelmonia/pixelmonia-mods/releases/download/packs-v1/PixelMonia-ResourcePackv40-halloween-gui.zip",
+      "sha1": "2b4e6069403f4b8cb97eaf68dda43ff537d1bdbd"
     },
     {
       "name": "pixelicons-pack-1_3_8",
