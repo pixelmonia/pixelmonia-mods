@@ -1,9 +1,9 @@
 {
   "resourcepacks": [
     {
-      "name": "PixelMonia-ResourcePack-v51-complet",
-      "url": "https://github.com/pixelmonia/pixelmonia-mods/releases/download/packs-v1/PixelMonia-ResourcePack-v51-complet.zip",
-      "sha1": "58cad4aada54a6a488feb73e1afd58a0265b2dd3"
+      "name": "PixelMonia-ResourcePackv49",
+      "url": "https://github.com/pixelmonia/pixelmonia-mods/releases/download/packs-v1/PixelMonia-ResourcePackv49.zip",
+      "sha1": "3d18645ce90fd2e24fed9993feeb3e581e9cade0"
     }
   ]
 }
