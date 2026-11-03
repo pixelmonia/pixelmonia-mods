@@ -1,14 +1,9 @@
 {
   "resourcepacks": [
     {
-      "name": "pixelmonia-resourcepack-v49-tablogo",
-      "url": "https://github.com/pixelmonia/pixelmonia-mods/releases/download/packs-v1/PixelMonia-ResourcePack-v49-tablogo.zip",
-      "sha1": "4153b2b53fd17179f1f399e6a5f2688838788513"
-    },
-    {
-      "name": "pixelicons-pack-1_3_8",
-      "url": "https://github.com/pixelmonia/pixelmonia-mods/releases/download/packs-v1/pixelicons-pack-1_3_8.zip",
-      "sha1": "0147ee6099d4aaae3525427a111f2ed63fa86afc"
+      "name": "PixelMonia-ResourcePack-v51-complet",
+      "url": "https://github.com/pixelmonia/pixelmonia-mods/releases/download/packs-v1/PixelMonia-ResourcePack-v51-complet.zip",
+      "sha1": "58cad4aada54a6a488feb73e1afd58a0265b2dd3"
     }
   ]
 }
