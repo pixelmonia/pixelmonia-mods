@@ -4,6 +4,11 @@
       "name": "PixelMonia-ResourcePackv49",
       "url": "https://github.com/pixelmonia/pixelmonia-mods/releases/download/packs-v1/PixelMonia-ResourcePackv49.zip",
       "sha1": "3d18645ce90fd2e24fed9993feeb3e581e9cade0"
+    },
+    {
+      "name": "pixelicons-pack-1_3_8",
+      "url": "https://github.com/pixelmonia/pixelmonia-mods/releases/download/packs-v1/pixelicons-pack-1_3_8.zip",
+      "sha1": "0147ee6099d4aaae3525427a111f2ed63fa86afc"
     }
   ]
 }
