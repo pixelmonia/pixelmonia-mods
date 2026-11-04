@@ -14,6 +14,11 @@
       "name": "LogoPackV3",
       "url": "https://github.com/pixelmonia/pixelmonia-mods/releases/download/packs-v1/LogoPackV3.zip",
       "sha1": "5c75903595fafc4cae08bd7beecd1d35853074bb"
+    },
+    {
+      "name": "PM-JAPAN",
+      "url": "https://github.com/pixelmonia/pixelmonia-mods/releases/download/packs-v1/PM-JAPAN.zip",
+      "sha1": "3914af0da236c58f367622581f6cb1b0634f98a3"
     }
   ]
 }
